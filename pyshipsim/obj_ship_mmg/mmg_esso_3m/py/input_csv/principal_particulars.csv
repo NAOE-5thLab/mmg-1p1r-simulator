@@ -1,0 +1,23 @@
+parameter,value
+lpp, 3.0
+breadth, 0.48925 
+draft, 0.20114
+mass_nd, 0.27078
+x_lcg, 0.03119
+rho_fresh, 998.0
+dia_prop, 0.084
+pitchr, 0.7151
+area_rudder, 0.01063
+lambda_rudder, 1.539
+x_location_rudder, -1.5
+maxtickness_rudder, 0.18
+rho_air,1.166
+area_projected_trans, 0.13544
+area_projected_lateral, 0.52038
+AOD, 0.1423
+LCW, -0.01299
+LCBR, -0.06209
+HBR, 0.294
+HC, 0.10359
+SBW, 0.48925
+Lz, 0.0

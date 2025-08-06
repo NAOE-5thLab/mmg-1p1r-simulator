@@ -1,0 +1,70 @@
+parameter,value
+massx_nd, 0.0467
+massy_nd, 0.2579
+IzzJzz_nd,0.0286
+xuu_nd,-0.02139
+xvr_nd,-0.0081
+yv_nd,-0.3728
+nv_nd,-0.1458
+yr_nd,0.116
+nr_nd,-0.04849
+coeff_drag_sway,0.9665
+cry_cross_flow,2.217
+crn_cross_flow,0.8097
+coeff_drag_aft,-0.03189
+kt_coeff0,0.3278
+kt_coeff1,-0.3223
+kt_coeff2,-0.156
+t_prop,0.22
+w_prop_zero,0.614
+tau_prop,0.871
+coeff_cp_prop,-0.359
+xp_prop_nd,-0.517
+ai_coeff_prop0,-7.90E-05
+ai_coeff_prop1,7.99E-03
+ai_coeff_prop2,-4.93E-03
+ai_coeff_prop3,-5.87E-03
+ai_coeff_prop4,-5.58E-04
+ai_coeff_prop5,5.08E-03
+ai_coeff_prop6,1.702E-03
+ai_coeff_prop7,9.16E-04
+bi_coeff_prop0,3.50E-05
+bi_coeff_prop1,-3.17E-03
+bi_coeff_prop2,1.96E-03
+bi_coeff_prop3,2.33E-03
+bi_coeff_prop4,2.25E-04
+bi_coeff_prop5,-2.16E-03
+bi_coeff_prop6,6.27E-05
+bi_coeff_prop7,6.25E-05
+ci_coeff_prop0,-0.251
+ci_coeff_prop1,-0.175
+ci_coeff_prop2,0.330
+ci_coeff_prop3,-0.233
+t_rudder,0.19
+ah_rudder,0.393
+xh_rudder_nd,-0.45
+lr_rudder_nd,-1.08
+kx_rudder,0.288
+kx_rudder_reverse,0.144
+epsilon_rudder,1.42
+cpr_rudder,-0.176
+gammaN_rudder,0.4406
+gammaP_rudder,0.3506
+KT_bow_forward, 0.360
+KT_bow_reverse, -0.450
+aY_bow, -5.830
+aN_bow, -3.44
+KT_stern_forward, 0.17
+KT_stern_reverse, -0.21
+aY_stern, -2.56
+aN_stern, -7.46
+XX0, -0.010466204998895
+XX1,-0.821991956431999
+XX3,0.060273613257498
+XX5,0.044558221361039
+YY1,1.058172082517226
+YY3,0.002321463294909
+YY5,-0.015293451706739
+NN1,-0.030727798087410
+NN2,0.104116370350922
+NN3,-8.803014758436215e-04
