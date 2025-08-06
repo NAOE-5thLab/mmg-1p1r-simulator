@@ -1,0 +1,9 @@
+model,value
+switch_prop_x, 1
+switch_prop_y, 1
+switch_prop_n, 1
+switch_rudder, 1
+switch_wind,   1
+switch_windtype, 1
+switch_fn,1
+switch_ur,1
